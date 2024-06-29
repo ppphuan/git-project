@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#修改第二次
+#新的修改
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
