@@ -36,8 +36,8 @@ def user_login(request):
                 login(request, user)
                 # return redirect("article:article-list")
                 # return redirect("index") 
-                # return render(request, 'SmartCenter/trend.html', context)
-                # return render(request, 'SmartCenter/your_template.html', {'context_data': data})
+                # return render(request, 'UnderWater/trend.html', context)
+                # return render(request, 'UnderWater/your_template.html', {'context_data': data})
                 # 数据查询，根据用户名查询出用户的权限
                 # authority = (User.objects.get(username=data['username']).is_superuser & User.objects.get(username=data['username']).is_staff)
 
